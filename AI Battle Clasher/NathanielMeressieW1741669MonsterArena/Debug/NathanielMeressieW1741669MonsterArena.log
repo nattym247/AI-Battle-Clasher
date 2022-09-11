@@ -1,0 +1,9 @@
+﻿  NathanielMeressieW1741669MonsterArena.cpp
+D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena.cpp(932,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena.cpp(1082,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena.cpp(1234,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena.cpp(1357,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena.cpp(1480,27): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena.cpp(1579,27): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena\NathanielMeressieW1741669MonsterArena.cpp(1692,6): warning C4101: 'gamestart': unreferenced local variable
+  NathanielMeressieW1741669MonsterArena.vcxproj -> D:\University\DEFREF COURSEWORK SUBMIT\Object\NathanielMeressieW1741669MonsterArena\Debug\NathanielMeressieW1741669MonsterArena.exe
